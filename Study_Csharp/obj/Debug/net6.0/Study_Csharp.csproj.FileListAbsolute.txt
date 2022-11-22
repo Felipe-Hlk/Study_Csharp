@@ -1,0 +1,15 @@
+C:\Felipe\PROGRAMAÇÃO\Repository GItHub\Study C#\Study_Csharp\Study_Csharp\bin\Debug\net6.0\Study_Csharp.exe
+C:\Felipe\PROGRAMAÇÃO\Repository GItHub\Study C#\Study_Csharp\Study_Csharp\bin\Debug\net6.0\Study_Csharp.deps.json
+C:\Felipe\PROGRAMAÇÃO\Repository GItHub\Study C#\Study_Csharp\Study_Csharp\bin\Debug\net6.0\Study_Csharp.runtimeconfig.json
+C:\Felipe\PROGRAMAÇÃO\Repository GItHub\Study C#\Study_Csharp\Study_Csharp\bin\Debug\net6.0\Study_Csharp.dll
+C:\Felipe\PROGRAMAÇÃO\Repository GItHub\Study C#\Study_Csharp\Study_Csharp\bin\Debug\net6.0\Study_Csharp.pdb
+C:\Felipe\PROGRAMAÇÃO\Repository GItHub\Study C#\Study_Csharp\Study_Csharp\obj\Debug\net6.0\Study_Csharp.csproj.AssemblyReference.cache
+C:\Felipe\PROGRAMAÇÃO\Repository GItHub\Study C#\Study_Csharp\Study_Csharp\obj\Debug\net6.0\Study_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Felipe\PROGRAMAÇÃO\Repository GItHub\Study C#\Study_Csharp\Study_Csharp\obj\Debug\net6.0\Study_Csharp.AssemblyInfoInputs.cache
+C:\Felipe\PROGRAMAÇÃO\Repository GItHub\Study C#\Study_Csharp\Study_Csharp\obj\Debug\net6.0\Study_Csharp.AssemblyInfo.cs
+C:\Felipe\PROGRAMAÇÃO\Repository GItHub\Study C#\Study_Csharp\Study_Csharp\obj\Debug\net6.0\Study_Csharp.csproj.CoreCompileInputs.cache
+C:\Felipe\PROGRAMAÇÃO\Repository GItHub\Study C#\Study_Csharp\Study_Csharp\obj\Debug\net6.0\Study_Csharp.dll
+C:\Felipe\PROGRAMAÇÃO\Repository GItHub\Study C#\Study_Csharp\Study_Csharp\obj\Debug\net6.0\refint\Study_Csharp.dll
+C:\Felipe\PROGRAMAÇÃO\Repository GItHub\Study C#\Study_Csharp\Study_Csharp\obj\Debug\net6.0\Study_Csharp.pdb
+C:\Felipe\PROGRAMAÇÃO\Repository GItHub\Study C#\Study_Csharp\Study_Csharp\obj\Debug\net6.0\Study_Csharp.genruntimeconfig.cache
+C:\Felipe\PROGRAMAÇÃO\Repository GItHub\Study C#\Study_Csharp\Study_Csharp\obj\Debug\net6.0\ref\Study_Csharp.dll
