@@ -1,25 +1,26 @@
 ﻿using System;
 using System.Globalization;
 
-namespace FirstProject
+namespace CourseCsharpExercises
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int 
-            x = 5;
 
-            double
-            y = 2 * x;
+            double b, B, h, area;
+
+            b = 6.0;
+            B = 8.0;
+            h = 5.0;
+
+            area = ( b  + B ) / 2.0 * h;
 
             Console.WriteLine();
-            Console.WriteLine(x);
+            Console.WriteLine(" Exercício Área de um Triângulo Equilátero ");
             Console.WriteLine();
-            Console.WriteLine(y);
-
-
-
+            Console.WriteLine(" A área do Triângulo é: " + area );
+            
 
             Console.ReadLine();
         }
