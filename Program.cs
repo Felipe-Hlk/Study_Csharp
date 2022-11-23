@@ -7,10 +7,19 @@ namespace FirstProject
     {
         static void Main(string[] args)
         {
-            double x = 10.35784;
-            int y = 25;
-            string z = "Bruna";
-            char s = 'F';
+            double
+            x = 10.35784;
+
+            int y, xx, yy;
+            y = 25;
+            xx = 5;
+            yy = 2 * 5;
+
+            string 
+            z = "Bruna";
+
+            char
+            s = 'F';
 
             Console.WriteLine();
             Console.WriteLine(" Hello World! ");
@@ -33,9 +42,18 @@ namespace FirstProject
 
             Console.WriteLine();
             Console.WriteLine(" A paciente " + z + " tem " + y + " anos e seu sexo é: " + s);
+            Console.WriteLine();
+
+            
+            Console.WriteLine(xx);
+            Console.WriteLine();
+            Console.WriteLine(yy);
+
+
 
 
             Console.ReadLine();
         }
     }
 }
+
