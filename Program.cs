@@ -7,23 +7,23 @@ namespace CourseCsharpExercises
     {
         static void Main(string[] args)
         {
-
-            double b, B, h, area;
-
-            b = 6.0;
-            B = 8.0;
-            h = 5.0;
-
-            area = ( b  + B ) / 2.0 * h;
-
-            Console.WriteLine();
-            Console.WriteLine(" Exercício Área de um Triângulo Equilátero ");
-            Console.WriteLine();
-            Console.WriteLine(" A área do Triângulo é: " + area );
-            
-
+            string x;
+            int y;
+            double z;
+            char w;
+            x = Console.ReadLine();
+            y = int.Parse(Console.ReadLine());
+            z = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            w = char.Parse(Console.ReadLine());
+            Console.WriteLine(x);
+            Console.WriteLine(y);
+            Console.WriteLine(z.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine(w);
             Console.ReadLine();
+
         }
+
+
     }
 }
 
